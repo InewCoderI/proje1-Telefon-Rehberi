@@ -1,0 +1,32 @@
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\class-Dictionary\bin\Debug\net5.0\class-Dictionary.exe
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\class-Dictionary\bin\Debug\net5.0\class-Dictionary.deps.json
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\class-Dictionary\bin\Debug\net5.0\class-Dictionary.runtimeconfig.json
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\class-Dictionary\bin\Debug\net5.0\class-Dictionary.runtimeconfig.dev.json
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\class-Dictionary\bin\Debug\net5.0\class-Dictionary.dll
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\class-Dictionary\bin\Debug\net5.0\ref\class-Dictionary.dll
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\class-Dictionary\bin\Debug\net5.0\class-Dictionary.pdb
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\class-Dictionary\obj\Debug\net5.0\class-Dictionary.csproj.AssemblyReference.cache
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\class-Dictionary\obj\Debug\net5.0\class-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\class-Dictionary\obj\Debug\net5.0\class-Dictionary.AssemblyInfoInputs.cache
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\class-Dictionary\obj\Debug\net5.0\class-Dictionary.AssemblyInfo.cs
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\class-Dictionary\obj\Debug\net5.0\class-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\class-Dictionary\obj\Debug\net5.0\class-Dictionary.dll
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\class-Dictionary\obj\Debug\net5.0\ref\class-Dictionary.dll
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\class-Dictionary\obj\Debug\net5.0\class-Dictionary.pdb
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\class-Dictionary\obj\Debug\net5.0\class-Dictionary.genruntimeconfig.cache
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\proje1-Telefon Rehberi\bin\Debug\net5.0\class-Dictionary.exe
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\proje1-Telefon Rehberi\bin\Debug\net5.0\class-Dictionary.deps.json
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\proje1-Telefon Rehberi\bin\Debug\net5.0\class-Dictionary.runtimeconfig.json
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\proje1-Telefon Rehberi\bin\Debug\net5.0\class-Dictionary.runtimeconfig.dev.json
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\proje1-Telefon Rehberi\bin\Debug\net5.0\class-Dictionary.dll
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\proje1-Telefon Rehberi\bin\Debug\net5.0\ref\class-Dictionary.dll
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\proje1-Telefon Rehberi\bin\Debug\net5.0\class-Dictionary.pdb
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\proje1-Telefon Rehberi\obj\Debug\net5.0\class-Dictionary.csproj.AssemblyReference.cache
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\proje1-Telefon Rehberi\obj\Debug\net5.0\class-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\proje1-Telefon Rehberi\obj\Debug\net5.0\class-Dictionary.AssemblyInfoInputs.cache
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\proje1-Telefon Rehberi\obj\Debug\net5.0\class-Dictionary.AssemblyInfo.cs
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\proje1-Telefon Rehberi\obj\Debug\net5.0\class-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\proje1-Telefon Rehberi\obj\Debug\net5.0\class-Dictionary.dll
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\proje1-Telefon Rehberi\obj\Debug\net5.0\ref\class-Dictionary.dll
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\proje1-Telefon Rehberi\obj\Debug\net5.0\class-Dictionary.pdb
+C:\Users\cokan\OneDrive\Masaüstü\pratikler\proje1-Telefon Rehberi\obj\Debug\net5.0\class-Dictionary.genruntimeconfig.cache
